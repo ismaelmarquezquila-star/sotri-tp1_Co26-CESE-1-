@@ -4,4 +4,4 @@
 ### Responsable de la entrega:
 | N° SIU | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
-|	e2621 | MARQUEZ QUILA, ISMAE | | Semana 04 |
+|	e2621 | MARQUEZ QUILA, ISMAEL | | Semana 04 |
