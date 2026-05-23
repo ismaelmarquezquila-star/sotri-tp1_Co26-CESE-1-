@@ -1,0 +1,2 @@
+../app/src/task_btn.c:82:6:task_btn	40	static,ignoring_inline_asm
+../app/src/task_btn.c:106:6:task_btn_statechart	24	static
