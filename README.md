@@ -1,6 +1,6 @@
 # CESE - Sistemas Operativos de Tiempo Real
 ## Trabajo Práctico N°: 1 - Tareas de FreeRTOS
-### Cohorte-Grupo
+### Cohorte 26Co2026 - Grupo:1
 ### Responsable de la entrega:
 | N° SIU | Apellidos, Nombres     | Fecha    | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
